@@ -1,0 +1,100 @@
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.exe.config
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.exe
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.xml
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.pdb
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\bin\Debug\Dataset\BANKING.mdb
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.exe
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.pdb
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.xml
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\ResolveAssemblyReference.cache
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.aboutus.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.accounttype.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.addinterest.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.bankaccounts.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.bankbranches.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.bankprofile.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.Calculator.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.changepassword.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.chequebooks.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.customerdetail.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.home.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.internaltransfer.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.loadingform.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.loginform.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.maketransaction.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.newtransaction.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.newuser.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.setcode.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.transfer.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.usermanager.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.userprofile.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.usertype.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.Resources.resources
+I:\by dhruv\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.vbproj.GenerateResource.Cache
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.exe.config
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.exe
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.xml
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.pdb
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\bin\Debug\Dataset\BANKING.mdb
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.exe
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.pdb
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.xml
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\ResolveAssemblyReference.cache
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.aboutus.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.accounttype.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.addinterest.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.bankaccounts.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.bankbranches.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.bankprofile.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.Calculator.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.changepassword.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.chequebooks.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.customerdetail.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.home.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.internaltransfer.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.loadingform.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.loginform.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.maketransaction.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.newtransaction.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.newuser.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.setcode.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.transfer.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.usermanager.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.userprofile.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.usertype.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.Resources.resources
+E:\jayesh\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.vbproj.GenerateResource.Cache
+E:\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.exe.config
+E:\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.exe
+E:\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.pdb
+E:\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.xml
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\ResolveAssemblyReference.cache
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.aboutus.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.accountstatement.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.accounttype.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.alltransactions.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.bankaccounts.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.bankbranches.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.bankprofile.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.Calculator.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.changepassword.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.chequebooks.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.customerdetail.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.customerreports.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.home.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.internaltransfer.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.loadingform.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.loginform.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.maketransaction.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.newtransaction.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.newuser.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.setcode.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.transfer.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.usermanager.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.userprofile.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.usertype.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS_JK.Resources.resources
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.vbproj.GenerateResource.Cache
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.exe
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.xml
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.pdb

@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6AAA62C1-C3BE-4E7D-B724-A9CAAA20303B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>BMS_JK.My.MyApplication</StartupObject>
+    <RootNamespace>BMS_JK</RootNamespace>
+    <AssemblyName>BMS-JK</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <ApplicationIcon>1.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>BMS-JK.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>BMS-JK.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="classes\jayesh.vb" />
+    <Compile Include="Dataset\B_DataSet2.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>B_DataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\B_DataSet3.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>B_DataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\B_DataSet4.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>B_DataSet4.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Dataset\B_DataSet1.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>B_DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="classes\a_bank.vb" />
+    <Compile Include="classes\a_bankaccount.vb" />
+    <Compile Include="classes\a_customer.vb" />
+    <Compile Include="classes\a_loginform.vb" />
+    <Compile Include="classes\a_newuser.vb" />
+    <Compile Include="classes\a_transaction.vb" />
+    <Compile Include="classes\a_transfer.vb" />
+    <Compile Include="classes\a_usermanager.vb" />
+    <Compile Include="classes\a_userprofile.vb" />
+    <Compile Include="classes\a_usertype.vb" />
+    <Compile Include="forms\aboutus.Designer.vb">
+      <DependentUpon>aboutus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\aboutus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\accountstatement.Designer.vb">
+      <DependentUpon>accountstatement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\accountstatement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\accounttype.Designer.vb">
+      <DependentUpon>accounttype.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\accounttype.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\alltransactions.Designer.vb">
+      <DependentUpon>alltransactions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\alltransactions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\bankaccounts.Designer.vb">
+      <DependentUpon>bankaccounts.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\bankaccounts.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\bankbranches.Designer.vb">
+      <DependentUpon>bankbranches.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\bankbranches.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\bankprofile.Designer.vb">
+      <DependentUpon>bankprofile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\bankprofile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\calculator.Designer.vb">
+      <DependentUpon>calculator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\calculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\changepassword.Designer.vb">
+      <DependentUpon>changepassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\changepassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\chequebooks.Designer.vb">
+      <DependentUpon>chequebooks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\chequebooks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\customerdetail.Designer.vb">
+      <DependentUpon>customerdetail.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\customerdetail.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\customerreports.Designer.vb">
+      <DependentUpon>customerreports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\customerreports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\home.Designer.vb">
+      <DependentUpon>home.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\home.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\internaltransfer.Designer.vb">
+      <DependentUpon>internaltransfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\internaltransfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\loadingform.Designer.vb">
+      <DependentUpon>loadingform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\loadingform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\loginform.Designer.vb">
+      <DependentUpon>loginform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\loginform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\maketransaction.Designer.vb">
+      <DependentUpon>maketransaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\maketransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\newtransaction.Designer.vb">
+      <DependentUpon>newtransaction.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\newtransaction.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\newuser.Designer.vb">
+      <DependentUpon>newuser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\newuser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\setcode.Designer.vb">
+      <DependentUpon>setcode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\setcode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\transfer.Designer.vb">
+      <DependentUpon>transfer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\transfer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\usermanager.Designer.vb">
+      <DependentUpon>usermanager.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\usermanager.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\userprofile.Designer.vb">
+      <DependentUpon>userprofile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\userprofile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms\usertype.Designer.vb">
+      <DependentUpon>usertype.vb</DependentUpon>
+    </Compile>
+    <Compile Include="forms\usertype.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="forms\aboutus.resx">
+      <DependentUpon>aboutus.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\accountstatement.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>accountstatement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\accounttype.resx">
+      <DependentUpon>accounttype.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\alltransactions.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>alltransactions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\bankaccounts.resx">
+      <DependentUpon>bankaccounts.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\bankbranches.resx">
+      <DependentUpon>bankbranches.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\bankprofile.resx">
+      <DependentUpon>bankprofile.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\calculator.resx">
+      <DependentUpon>calculator.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\changepassword.resx">
+      <DependentUpon>changepassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\chequebooks.resx">
+      <DependentUpon>chequebooks.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\customerdetail.resx">
+      <DependentUpon>customerdetail.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\customerreports.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>customerreports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\home.resx">
+      <DependentUpon>home.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\internaltransfer.resx">
+      <DependentUpon>internaltransfer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\loadingform.resx">
+      <DependentUpon>loadingform.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\loginform.resx">
+      <DependentUpon>loginform.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\maketransaction.resx">
+      <DependentUpon>maketransaction.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\newtransaction.resx">
+      <DependentUpon>newtransaction.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\newuser.resx">
+      <DependentUpon>newuser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\setcode.resx">
+      <DependentUpon>setcode.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\transfer.resx">
+      <DependentUpon>transfer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\usermanager.resx">
+      <DependentUpon>usermanager.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\userprofile.resx">
+      <DependentUpon>userprofile.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms\usertype.resx">
+      <DependentUpon>usertype.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Dataset\B_DataSet2.xsc">
+      <DependentUpon>B_DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\B_DataSet2.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>B_DataSet2.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Dataset\B_DataSet2.xss">
+      <DependentUpon>B_DataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\B_DataSet3.xsc">
+      <DependentUpon>B_DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\B_DataSet3.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>B_DataSet3.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Dataset\B_DataSet3.xss">
+      <DependentUpon>B_DataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\B_DataSet4.xsc">
+      <DependentUpon>B_DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\B_DataSet4.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>B_DataSet4.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Dataset\B_DataSet4.xss">
+      <DependentUpon>B_DataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\B_DataSet1.xsc">
+      <DependentUpon>B_DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="Dataset\B_DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>B_DataSet1.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Dataset\B_DataSet1.xss">
+      <DependentUpon>B_DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1.ico" />
+    <None Include="Resources\NoLogo.bmp" />
+    <None Include="Resources\jay copy.jpg" />
+    <None Include="app.config" />
+    <None Include="Resources\NoSignature.bmp" />
+    <None Include="Resources\NoPicture.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

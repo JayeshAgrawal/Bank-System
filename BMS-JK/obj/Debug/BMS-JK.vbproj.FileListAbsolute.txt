@@ -1,0 +1,8 @@
+E:\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.exe.config
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.exe
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.xml
+E:\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.pdb
+H:\study\old project\jayesh project\BANK PRO\BMS-JK\BMS-JK\bin\Debug\BMS-JK.exe.config
+H:\study\old project\jayesh project\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.exe
+H:\study\old project\jayesh project\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.xml
+H:\study\old project\jayesh project\BANK PRO\BMS-JK\BMS-JK\obj\Debug\BMS-JK.pdb
